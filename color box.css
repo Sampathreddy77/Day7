@@ -1,0 +1,83 @@
+.AB,
+td {
+  border: 0.5px solid black;
+  width: 600px;
+  height: 125px;
+}
+.AA {
+}
+#A:hover {
+  background-color: red;
+}
+#B:hover {
+  background-color: blue;
+}
+#C:hover {
+  background-color: yellow;
+}
+#D:hover {
+  background-color: green;
+}
+#E:hover {
+  background-color: purple;
+}
+#F:hover {
+  background-color: brown;
+}
+#G:hover {
+  background-color: grey;
+}
+#H:hover {
+  background-color: pink;
+}
+#I:hover {
+  background-color: black;
+}
+#J:hover {
+  background-color: green;
+}
+#K:hover {
+  background-color: black;
+}
+#L:hover {
+  background-color: red;
+}
+#M:hover {
+  background-color: yellow;
+}
+#N:hover {
+  background-color: indigo;
+}
+#O:hover {
+  background-color: violet;
+}
+#P:hover {
+  background-color: blue;
+}
+#Q:hover {
+  background-color: pink;
+}
+#R:hover {
+  background-color: lavender;
+}
+#S:hover {
+  background-color: skyblue;
+}
+#T:hover {
+  background-color: olive;
+}
+#U:hover {
+  background-color: purple;
+}
+#V:hover {
+  background-color: navy;
+}
+#W:hover {
+  background-color: white;
+}
+#X:hover {
+  background-color: gold;
+}
+#Y:hover {
+  background-color: brown;
+}

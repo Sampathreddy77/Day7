@@ -1,0 +1,27 @@
+div {
+  display: inline-block;
+}
+
+#A:hover {
+  color: blueviolet;
+  background-color: gold;
+  background-image: url(./63de3042bb978e001e37ce1f.jpeg);
+}
+#B:hover {
+  color: palegreen;
+  background-color: rgb(10, 115, 250);
+  background-image: url(./image.png);
+}
+#C:hover {
+  color: blueviolet;
+  background-color: blanchedalmond;
+  background-image: url(./63de3042bb978e001e37ce1f.jpeg);
+}
+#C:target {
+  background-color: red;
+  background-image: url("./pollution3.jpg");
+}
+input:focus {
+  border: 4px solid red;
+  outline: 2px solid black;
+}
